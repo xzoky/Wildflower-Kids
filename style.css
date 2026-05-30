@@ -43,6 +43,19 @@ header {
 	margin-top: 1rem;
 }
 
+#languageSwitcher {
+	text-align: right;
+}
+
+#languageSwitcher a {
+	color: var(--secondary);
+	text-decoration: none;
+}
+
+#languageSwitcher a:hover {
+	text-decoration: underline;
+}
+
 #brand {
   display: flex;
   align-items: center;
