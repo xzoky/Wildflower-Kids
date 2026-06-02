@@ -65,7 +65,8 @@ header {
   align-items: center;
   gap: 2rem;
   max-width: fit-content;
-  margin: auto;
+  margin-inline: auto;
+  margin-bottom: 1.5rem;
 }
 
 #brand img {
