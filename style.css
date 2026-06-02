@@ -60,6 +60,7 @@ header {
 }
 
 #brand {
+  font-family: "Nunito";
   display: flex;
   align-items: center;
   gap: 2rem;
